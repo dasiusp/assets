@@ -12,4 +12,4 @@
 * ```A100: #9373ff```
 * ```A200: #6b40ff```
 * ```A400: #440dff```
-* ```A700: #3700f2 <- Oficial first DASI color```
+* ```A700: #3700f2``` ← Oficial first DASI color
